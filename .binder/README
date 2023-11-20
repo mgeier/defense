@@ -1,0 +1,7 @@
+This directory holds the configuration for https://mybinder.org/.
+
+The presentation can be accessed with this link:
+https://mybinder.org/v2/gh/mgeier/defense/dev?filepath=presentation.ipynb
+
+To check out a different version, just replace "dev" with the desired
+branch/tag name or commit hash.

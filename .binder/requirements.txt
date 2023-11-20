@@ -1,0 +1,6 @@
+matplotlib
+numpy
+rise
+scipy
+sympy
+./splines
