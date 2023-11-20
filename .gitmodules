@@ -1,0 +1,3 @@
+[submodule "splines"]
+	path = splines
+	url = https://github.com/AudioSceneDescriptionFormat/splines.git
